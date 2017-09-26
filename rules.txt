@@ -1,0 +1,383 @@
+Confidence = 0.805085 Rule: handicapped-infants=n -> religious-groups-in-schools=y
+Confidence = 0.865613 Rule: adoption-of-the-budget-resolution=y -> physician-fee-freeze=n
+Confidence = 0.865613 Rule: adoption-of-the-budget-resolution=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.849802 Rule: adoption-of-the-budget-resolution=y -> aid-to-nicaraguan-contras=y
+Confidence = 0.802372 Rule: adoption-of-the-budget-resolution=y -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.913043 Rule: adoption-of-the-budget-resolution=y -> Class=republican
+Confidence = 0.826484 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> el-salvador-aid=n
+Confidence = 0.817352 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> el-salvador-aid=n, aid-to-nicaraguan-contras=y
+Confidence = 0.817352 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> el-salvador-aid=n, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.826484 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> el-salvador-aid=n, Class=republican
+Confidence = 0.83105 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> anti-satellite-test-ban=y
+Confidence = 0.83105 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> anti-satellite-test-ban=y, Class=republican
+Confidence = 0.90411 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.90411 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.849315 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> education-spending=n
+Confidence = 0.849315 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> education-spending=n, Class=republican
+Confidence = 1 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n -> Class=republican
+Confidence = 0.98895 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, el-salvador-aid=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.98895 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, el-salvador-aid=n -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 1 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, el-salvador-aid=n -> Class=republican
+Confidence = 1 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, el-salvador-aid=n, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.98895 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, el-salvador-aid=n, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.956044 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y
+Confidence = 0.956044 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 1 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, anti-satellite-test-ban=y -> Class=republican
+Confidence = 1 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.956044 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, anti-satellite-test-ban=y, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.90404 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> el-salvador-aid=n
+Confidence = 0.90404 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> el-salvador-aid=n, Class=republican
+Confidence = 0.878788 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y
+Confidence = 0.878788 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y, Class=republican
+Confidence = 1 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.90404 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican -> el-salvador-aid=n
+Confidence = 0.878788 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican -> anti-satellite-test-ban=y
+Confidence = 1 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, education-spending=n -> Class=republican
+Confidence = 0.826484 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, Class=republican -> el-salvador-aid=n
+Confidence = 0.817352 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, Class=republican -> el-salvador-aid=n, aid-to-nicaraguan-contras=y
+Confidence = 0.83105 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, Class=republican -> anti-satellite-test-ban=y
+Confidence = 0.90411 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.849315 Rule: adoption-of-the-budget-resolution=y, physician-fee-freeze=n, Class=republican -> education-spending=n
+Confidence = 0.962766 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n -> physician-fee-freeze=n
+Confidence = 0.952128 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.952128 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.962766 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n -> physician-fee-freeze=n, Class=republican
+Confidence = 0.989362 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.968085 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.978723 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n -> Class=republican
+Confidence = 0.962366 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n
+Confidence = 0.962366 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.978495 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.983516 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n, aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.983696 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n, Class=republican -> physician-fee-freeze=n
+Confidence = 0.972826 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n, Class=republican -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.98913 Rule: adoption-of-the-budget-resolution=y, el-salvador-aid=n, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.905473 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y -> physician-fee-freeze=n
+Confidence = 0.865672 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.865672 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.905473 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.930348 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y
+Confidence = 0.875622 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.915423 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y -> Class=republican
+Confidence = 0.930481 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n
+Confidence = 0.930481 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.941176 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.988636 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.98913 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.945652 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y, Class=republican -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.956522 Rule: adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.92093 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n
+Confidence = 0.832558 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, el-salvador-aid=n
+Confidence = 0.832558 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, el-salvador-aid=n, Class=republican
+Confidence = 0.809302 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, anti-satellite-test-ban=y
+Confidence = 0.809302 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, anti-satellite-test-ban=y, Class=republican
+Confidence = 0.92093 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.865116 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> el-salvador-aid=n
+Confidence = 0.846512 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> el-salvador-aid=n, Class=republican
+Confidence = 0.869767 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y
+Confidence = 0.818605 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y, Class=republican
+Confidence = 0.832558 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> education-spending=n
+Confidence = 0.944186 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.975369 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.881773 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n, el-salvador-aid=n
+Confidence = 0.857143 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n, anti-satellite-test-ban=y
+Confidence = 0.896552 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y, Class=republican -> el-salvador-aid=n
+Confidence = 0.866995 Rule: adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y, Class=republican -> anti-satellite-test-ban=y
+Confidence = 0.925373 Rule: adoption-of-the-budget-resolution=y, education-spending=n -> physician-fee-freeze=n
+Confidence = 0.925373 Rule: adoption-of-the-budget-resolution=y, education-spending=n -> physician-fee-freeze=n, Class=republican
+Confidence = 0.890547 Rule: adoption-of-the-budget-resolution=y, education-spending=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.955224 Rule: adoption-of-the-budget-resolution=y, education-spending=n -> Class=republican
+Confidence = 0.96875 Rule: adoption-of-the-budget-resolution=y, education-spending=n, Class=republican -> physician-fee-freeze=n
+Confidence = 0.948052 Rule: adoption-of-the-budget-resolution=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.857143 Rule: adoption-of-the-budget-resolution=y, Class=republican -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.805195 Rule: adoption-of-the-budget-resolution=y, Class=republican -> physician-fee-freeze=n, education-spending=n
+Confidence = 0.878788 Rule: adoption-of-the-budget-resolution=y, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.831169 Rule: adoption-of-the-budget-resolution=y, Class=republican -> education-spending=n
+Confidence = 0.88664 Rule: physician-fee-freeze=n -> adoption-of-the-budget-resolution=y
+Confidence = 0.801619 Rule: physician-fee-freeze=n -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y
+Confidence = 0.801619 Rule: physician-fee-freeze=n -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.88664 Rule: physician-fee-freeze=n -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.854251 Rule: physician-fee-freeze=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.850202 Rule: physician-fee-freeze=n -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.817814 Rule: physician-fee-freeze=n -> education-spending=n
+Confidence = 0.813765 Rule: physician-fee-freeze=n -> education-spending=n, Class=republican
+Confidence = 0.991903 Rule: physician-fee-freeze=n -> Class=republican
+Confidence = 0.928205 Rule: physician-fee-freeze=n, el-salvador-aid=n -> adoption-of-the-budget-resolution=y
+Confidence = 0.917949 Rule: physician-fee-freeze=n, el-salvador-aid=n -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y
+Confidence = 0.917949 Rule: physician-fee-freeze=n, el-salvador-aid=n -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.928205 Rule: physician-fee-freeze=n, el-salvador-aid=n -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.912821 Rule: physician-fee-freeze=n, el-salvador-aid=n -> anti-satellite-test-ban=y
+Confidence = 0.897436 Rule: physician-fee-freeze=n, el-salvador-aid=n -> anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y
+Confidence = 0.892308 Rule: physician-fee-freeze=n, el-salvador-aid=n -> anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.907692 Rule: physician-fee-freeze=n, el-salvador-aid=n -> anti-satellite-test-ban=y, Class=republican
+Confidence = 0.984615 Rule: physician-fee-freeze=n, el-salvador-aid=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.979487 Rule: physician-fee-freeze=n, el-salvador-aid=n -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.994872 Rule: physician-fee-freeze=n, el-salvador-aid=n -> Class=republican
+Confidence = 0.983146 Rule: physician-fee-freeze=n, el-salvador-aid=n, anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y
+Confidence = 0.977528 Rule: physician-fee-freeze=n, el-salvador-aid=n, anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.994382 Rule: physician-fee-freeze=n, el-salvador-aid=n, anti-satellite-test-ban=y -> Class=republican
+Confidence = 0.994286 Rule: physician-fee-freeze=n, el-salvador-aid=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.983051 Rule: physician-fee-freeze=n, el-salvador-aid=n, anti-satellite-test-ban=y, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.932292 Rule: physician-fee-freeze=n, el-salvador-aid=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y
+Confidence = 0.932292 Rule: physician-fee-freeze=n, el-salvador-aid=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.911458 Rule: physician-fee-freeze=n, el-salvador-aid=n, aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y
+Confidence = 0.90625 Rule: physician-fee-freeze=n, el-salvador-aid=n, aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y, Class=republican
+Confidence = 0.994792 Rule: physician-fee-freeze=n, el-salvador-aid=n, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.937173 Rule: physician-fee-freeze=n, el-salvador-aid=n, aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.910995 Rule: physician-fee-freeze=n, el-salvador-aid=n, aid-to-nicaraguan-contras=y, Class=republican -> anti-satellite-test-ban=y
+Confidence = 0.93299 Rule: physician-fee-freeze=n, el-salvador-aid=n, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.92268 Rule: physician-fee-freeze=n, el-salvador-aid=n, Class=republican -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y
+Confidence = 0.912371 Rule: physician-fee-freeze=n, el-salvador-aid=n, Class=republican -> anti-satellite-test-ban=y
+Confidence = 0.896907 Rule: physician-fee-freeze=n, el-salvador-aid=n, Class=republican -> anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y
+Confidence = 0.984536 Rule: physician-fee-freeze=n, el-salvador-aid=n, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.923858 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> adoption-of-the-budget-resolution=y
+Confidence = 0.883249 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y
+Confidence = 0.883249 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.923858 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.903553 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> el-salvador-aid=n
+Confidence = 0.888325 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> el-salvador-aid=n, aid-to-nicaraguan-contras=y
+Confidence = 0.883249 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> el-salvador-aid=n, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.898477 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> el-salvador-aid=n, Class=republican
+Confidence = 0.939086 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y
+Confidence = 0.93401 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.989848 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y -> Class=republican
+Confidence = 0.940541 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y
+Confidence = 0.940541 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.945946 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> el-salvador-aid=n
+Confidence = 0.940541 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> el-salvador-aid=n, Class=republican
+Confidence = 0.994595 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.945652 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.945652 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican -> el-salvador-aid=n
+Confidence = 0.933333 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.892308 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, Class=republican -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y
+Confidence = 0.907692 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, Class=republican -> el-salvador-aid=n
+Confidence = 0.892308 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, Class=republican -> el-salvador-aid=n, aid-to-nicaraguan-contras=y
+Confidence = 0.94359 Rule: physician-fee-freeze=n, anti-satellite-test-ban=y, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.938389 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y
+Confidence = 0.848341 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, el-salvador-aid=n
+Confidence = 0.848341 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, el-salvador-aid=n, Class=republican
+Confidence = 0.824645 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y
+Confidence = 0.824645 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y, Class=republican
+Confidence = 0.938389 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.909953 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> el-salvador-aid=n
+Confidence = 0.829384 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> el-salvador-aid=n, anti-satellite-test-ban=y
+Confidence = 0.824645 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> el-salvador-aid=n, anti-satellite-test-ban=y, Class=republican
+Confidence = 0.905213 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> el-salvador-aid=n, Class=republican
+Confidence = 0.876777 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y
+Confidence = 0.872038 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y, Class=republican
+Confidence = 0.824645 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> mx-missile=y
+Confidence = 0.85782 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> education-spending=n
+Confidence = 0.853081 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> education-spending=n, Class=republican
+Confidence = 0.995261 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.994475 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y, education-spending=n -> Class=republican
+Confidence = 0.942857 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.852381 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y, el-salvador-aid=n
+Confidence = 0.828571 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y
+Confidence = 0.909524 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican -> el-salvador-aid=n
+Confidence = 0.828571 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican -> el-salvador-aid=n, anti-satellite-test-ban=y
+Confidence = 0.87619 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican -> anti-satellite-test-ban=y
+Confidence = 0.857143 Rule: physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican -> education-spending=n
+Confidence = 0.966667 Rule: physician-fee-freeze=n, mx-missile=y -> aid-to-nicaraguan-contras=y
+Confidence = 0.994444 Rule: physician-fee-freeze=n, mx-missile=y -> Class=republican
+Confidence = 0.920792 Rule: physician-fee-freeze=n, education-spending=n -> adoption-of-the-budget-resolution=y
+Confidence = 0.920792 Rule: physician-fee-freeze=n, education-spending=n -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.89604 Rule: physician-fee-freeze=n, education-spending=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.891089 Rule: physician-fee-freeze=n, education-spending=n -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.99505 Rule: physician-fee-freeze=n, education-spending=n -> Class=republican
+Confidence = 0.925373 Rule: physician-fee-freeze=n, education-spending=n, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.895522 Rule: physician-fee-freeze=n, education-spending=n, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.988764 Rule: physician-fee-freeze=n, superfund-right-to-sue=n -> Class=republican
+Confidence = 0.893878 Rule: physician-fee-freeze=n, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.808163 Rule: physician-fee-freeze=n, Class=republican -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y
+Confidence = 0.857143 Rule: physician-fee-freeze=n, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.820408 Rule: physician-fee-freeze=n, Class=republican -> education-spending=n
+Confidence = 0.903846 Rule: el-salvador-aid=n -> adoption-of-the-budget-resolution=y
+Confidence = 0.870192 Rule: el-salvador-aid=n -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.860577 Rule: el-salvador-aid=n -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.860577 Rule: el-salvador-aid=n -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.870192 Rule: el-salvador-aid=n -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n, Class=republican
+Confidence = 0.894231 Rule: el-salvador-aid=n -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y
+Confidence = 0.875 Rule: el-salvador-aid=n -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.884615 Rule: el-salvador-aid=n -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.9375 Rule: el-salvador-aid=n -> physician-fee-freeze=n
+Confidence = 0.855769 Rule: el-salvador-aid=n -> physician-fee-freeze=n, anti-satellite-test-ban=y
+Confidence = 0.841346 Rule: el-salvador-aid=n -> physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y
+Confidence = 0.836538 Rule: el-salvador-aid=n -> physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.850962 Rule: el-salvador-aid=n -> physician-fee-freeze=n, anti-satellite-test-ban=y, Class=republican
+Confidence = 0.923077 Rule: el-salvador-aid=n -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.918269 Rule: el-salvador-aid=n -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.932692 Rule: el-salvador-aid=n -> physician-fee-freeze=n, Class=republican
+Confidence = 0.903846 Rule: el-salvador-aid=n -> anti-satellite-test-ban=y
+Confidence = 0.884615 Rule: el-salvador-aid=n -> anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y
+Confidence = 0.860577 Rule: el-salvador-aid=n -> anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.875 Rule: el-salvador-aid=n -> anti-satellite-test-ban=y, Class=republican
+Confidence = 0.980769 Rule: el-salvador-aid=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.841346 Rule: el-salvador-aid=n -> aid-to-nicaraguan-contras=y, mx-missile=y
+Confidence = 0.836538 Rule: el-salvador-aid=n -> aid-to-nicaraguan-contras=y, education-spending=n
+Confidence = 0.947115 Rule: el-salvador-aid=n -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.860577 Rule: el-salvador-aid=n -> mx-missile=y
+Confidence = 0.850962 Rule: el-salvador-aid=n -> education-spending=n
+Confidence = 0.961538 Rule: el-salvador-aid=n -> Class=republican
+Confidence = 0.946809 Rule: el-salvador-aid=n, anti-satellite-test-ban=y -> physician-fee-freeze=n
+Confidence = 0.930851 Rule: el-salvador-aid=n, anti-satellite-test-ban=y -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.925532 Rule: el-salvador-aid=n, anti-satellite-test-ban=y -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.941489 Rule: el-salvador-aid=n, anti-satellite-test-ban=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.978723 Rule: el-salvador-aid=n, anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y
+Confidence = 0.952128 Rule: el-salvador-aid=n, anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.968085 Rule: el-salvador-aid=n, anti-satellite-test-ban=y -> Class=republican
+Confidence = 0.951087 Rule: el-salvador-aid=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n
+Confidence = 0.945652 Rule: el-salvador-aid=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.972826 Rule: el-salvador-aid=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.972067 Rule: el-salvador-aid=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.972527 Rule: el-salvador-aid=n, anti-satellite-test-ban=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.956044 Rule: el-salvador-aid=n, anti-satellite-test-ban=y, Class=republican -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.983516 Rule: el-salvador-aid=n, anti-satellite-test-ban=y, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.911765 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y
+Confidence = 0.877451 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.877451 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n, Class=republican
+Confidence = 0.892157 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.941176 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n
+Confidence = 0.857843 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, anti-satellite-test-ban=y
+Confidence = 0.852941 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, anti-satellite-test-ban=y, Class=republican
+Confidence = 0.936275 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.901961 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y
+Confidence = 0.877451 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y, Class=republican
+Confidence = 0.857843 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> mx-missile=y
+Confidence = 0.852941 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> education-spending=n
+Confidence = 0.965686 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.923858 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.908629 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.969543 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.883249 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n, anti-satellite-test-ban=y
+Confidence = 0.908629 Rule: el-salvador-aid=n, aid-to-nicaraguan-contras=y, Class=republican -> anti-satellite-test-ban=y
+Confidence = 0.977654 Rule: el-salvador-aid=n, mx-missile=y -> aid-to-nicaraguan-contras=y
+Confidence = 0.983051 Rule: el-salvador-aid=n, education-spending=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.92 Rule: el-salvador-aid=n, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.905 Rule: el-salvador-aid=n, Class=republican -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.895 Rule: el-salvador-aid=n, Class=republican -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.91 Rule: el-salvador-aid=n, Class=republican -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y
+Confidence = 0.97 Rule: el-salvador-aid=n, Class=republican -> physician-fee-freeze=n
+Confidence = 0.885 Rule: el-salvador-aid=n, Class=republican -> physician-fee-freeze=n, anti-satellite-test-ban=y
+Confidence = 0.87 Rule: el-salvador-aid=n, Class=republican -> physician-fee-freeze=n, anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y
+Confidence = 0.955 Rule: el-salvador-aid=n, Class=republican -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.91 Rule: el-salvador-aid=n, Class=republican -> anti-satellite-test-ban=y
+Confidence = 0.895 Rule: el-salvador-aid=n, Class=republican -> anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y
+Confidence = 0.985 Rule: el-salvador-aid=n, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.929245 Rule: el-salvador-aid=y -> religious-groups-in-schools=y
+Confidence = 0.820755 Rule: el-salvador-aid=y -> religious-groups-in-schools=y, mx-missile=n
+Confidence = 0.849057 Rule: el-salvador-aid=y -> religious-groups-in-schools=y, crime=y
+Confidence = 0.867925 Rule: el-salvador-aid=y -> mx-missile=n
+Confidence = 0.915094 Rule: el-salvador-aid=y -> crime=y
+Confidence = 0.883249 Rule: el-salvador-aid=y, religious-groups-in-schools=y -> mx-missile=n
+Confidence = 0.913706 Rule: el-salvador-aid=y, religious-groups-in-schools=y -> crime=y
+Confidence = 0.945652 Rule: el-salvador-aid=y, mx-missile=n -> religious-groups-in-schools=y
+Confidence = 0.927835 Rule: el-salvador-aid=y, crime=y -> religious-groups-in-schools=y
+Confidence = 0.925532 Rule: religious-groups-in-schools=y, mx-missile=n -> el-salvador-aid=y
+Confidence = 0.841121 Rule: religious-groups-in-schools=y, crime=y -> el-salvador-aid=y
+Confidence = 0.841004 Rule: anti-satellite-test-ban=y -> adoption-of-the-budget-resolution=y
+Confidence = 0.824268 Rule: anti-satellite-test-ban=y -> physician-fee-freeze=n
+Confidence = 0.8159 Rule: anti-satellite-test-ban=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.878661 Rule: anti-satellite-test-ban=y -> aid-to-nicaraguan-contras=y
+Confidence = 0.83682 Rule: anti-satellite-test-ban=y -> Class=republican
+Confidence = 0.890476 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y
+Confidence = 0.828571 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.828571 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n, Class=republican
+Confidence = 0.838095 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.880952 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n
+Confidence = 0.833333 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, el-salvador-aid=n
+Confidence = 0.828571 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, el-salvador-aid=n, Class=republican
+Confidence = 0.87619 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.87619 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> el-salvador-aid=n
+Confidence = 0.852381 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> el-salvador-aid=n, Class=republican
+Confidence = 0.9 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.931217 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.920635 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.973545 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.920635 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n, el-salvador-aid=n
+Confidence = 0.94709 Rule: anti-satellite-test-ban=y, aid-to-nicaraguan-contras=y, Class=republican -> el-salvador-aid=n
+Confidence = 0.92 Rule: anti-satellite-test-ban=y, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.91 Rule: anti-satellite-test-ban=y, Class=republican -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.87 Rule: anti-satellite-test-ban=y, Class=republican -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.88 Rule: anti-satellite-test-ban=y, Class=republican -> adoption-of-the-budget-resolution=y, aid-to-nicaraguan-contras=y
+Confidence = 0.975 Rule: anti-satellite-test-ban=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.885 Rule: anti-satellite-test-ban=y, Class=republican -> physician-fee-freeze=n, el-salvador-aid=n
+Confidence = 0.87 Rule: anti-satellite-test-ban=y, Class=republican -> physician-fee-freeze=n, el-salvador-aid=n, aid-to-nicaraguan-contras=y
+Confidence = 0.92 Rule: anti-satellite-test-ban=y, Class=republican -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.91 Rule: anti-satellite-test-ban=y, Class=republican -> el-salvador-aid=n
+Confidence = 0.895 Rule: anti-satellite-test-ban=y, Class=republican -> el-salvador-aid=n, aid-to-nicaraguan-contras=y
+Confidence = 0.945 Rule: anti-satellite-test-ban=y, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.88843 Rule: aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y
+Confidence = 0.818182 Rule: aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.818182 Rule: aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n, Class=republican
+Confidence = 0.838843 Rule: aid-to-nicaraguan-contras=y -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.871901 Rule: aid-to-nicaraguan-contras=y -> physician-fee-freeze=n
+Confidence = 0.867769 Rule: aid-to-nicaraguan-contras=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.842975 Rule: aid-to-nicaraguan-contras=y -> el-salvador-aid=n
+Confidence = 0.81405 Rule: aid-to-nicaraguan-contras=y -> el-salvador-aid=n, Class=republican
+Confidence = 0.867769 Rule: aid-to-nicaraguan-contras=y -> anti-satellite-test-ban=y
+Confidence = 0.801653 Rule: aid-to-nicaraguan-contras=y -> education-spending=n
+Confidence = 0.900826 Rule: aid-to-nicaraguan-contras=y -> Class=republican
+Confidence = 0.90625 Rule: aid-to-nicaraguan-contras=y, mx-missile=y -> physician-fee-freeze=n
+Confidence = 0.911458 Rule: aid-to-nicaraguan-contras=y, mx-missile=y -> el-salvador-aid=n
+Confidence = 0.932292 Rule: aid-to-nicaraguan-contras=y, mx-missile=y -> Class=republican
+Confidence = 0.92268 Rule: aid-to-nicaraguan-contras=y, education-spending=n -> adoption-of-the-budget-resolution=y
+Confidence = 0.93299 Rule: aid-to-nicaraguan-contras=y, education-spending=n -> physician-fee-freeze=n
+Confidence = 0.927835 Rule: aid-to-nicaraguan-contras=y, education-spending=n -> physician-fee-freeze=n, Class=republican
+Confidence = 0.896907 Rule: aid-to-nicaraguan-contras=y, education-spending=n -> el-salvador-aid=n
+Confidence = 0.958763 Rule: aid-to-nicaraguan-contras=y, education-spending=n -> Class=republican
+Confidence = 0.967742 Rule: aid-to-nicaraguan-contras=y, education-spending=n, Class=republican -> physician-fee-freeze=n
+Confidence = 0.931193 Rule: aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.908257 Rule: aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.821101 Rule: aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n, el-salvador-aid=n
+Confidence = 0.834862 Rule: aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y, el-salvador-aid=n
+Confidence = 0.807339 Rule: aid-to-nicaraguan-contras=y, Class=republican -> adoption-of-the-budget-resolution=y, anti-satellite-test-ban=y
+Confidence = 0.963303 Rule: aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.876147 Rule: aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n, el-salvador-aid=n
+Confidence = 0.844037 Rule: aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n, anti-satellite-test-ban=y
+Confidence = 0.825688 Rule: aid-to-nicaraguan-contras=y, Class=republican -> physician-fee-freeze=n, education-spending=n
+Confidence = 0.90367 Rule: aid-to-nicaraguan-contras=y, Class=republican -> el-salvador-aid=n
+Confidence = 0.821101 Rule: aid-to-nicaraguan-contras=y, Class=republican -> el-salvador-aid=n, anti-satellite-test-ban=y
+Confidence = 0.866972 Rule: aid-to-nicaraguan-contras=y, Class=republican -> anti-satellite-test-ban=y
+Confidence = 0.821101 Rule: aid-to-nicaraguan-contras=y, Class=republican -> mx-missile=y
+Confidence = 0.853211 Rule: aid-to-nicaraguan-contras=y, Class=republican -> education-spending=n
+Confidence = 0.893204 Rule: mx-missile=n -> el-salvador-aid=y
+Confidence = 0.84466 Rule: mx-missile=n -> el-salvador-aid=y, religious-groups-in-schools=y
+Confidence = 0.912621 Rule: mx-missile=n -> religious-groups-in-schools=y
+Confidence = 0.854369 Rule: mx-missile=n -> crime=y
+Confidence = 0.869565 Rule: mx-missile=y -> adoption-of-the-budget-resolution=y
+Confidence = 0.869565 Rule: mx-missile=y -> physician-fee-freeze=n
+Confidence = 0.84058 Rule: mx-missile=y -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.864734 Rule: mx-missile=y -> physician-fee-freeze=n, Class=republican
+Confidence = 0.864734 Rule: mx-missile=y -> el-salvador-aid=n
+Confidence = 0.845411 Rule: mx-missile=y -> el-salvador-aid=n, aid-to-nicaraguan-contras=y
+Confidence = 0.879227 Rule: mx-missile=y -> anti-satellite-test-ban=y
+Confidence = 0.927536 Rule: mx-missile=y -> aid-to-nicaraguan-contras=y
+Confidence = 0.864734 Rule: mx-missile=y -> aid-to-nicaraguan-contras=y, Class=republican
+Confidence = 0.908213 Rule: mx-missile=y -> Class=republican
+Confidence = 0.952128 Rule: mx-missile=y, Class=republican -> physician-fee-freeze=n
+Confidence = 0.952128 Rule: mx-missile=y, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.862661 Rule: education-spending=n -> adoption-of-the-budget-resolution=y
+Confidence = 0.824034 Rule: education-spending=n -> adoption-of-the-budget-resolution=y, Class=republican
+Confidence = 0.866953 Rule: education-spending=n -> physician-fee-freeze=n
+Confidence = 0.862661 Rule: education-spending=n -> physician-fee-freeze=n, Class=republican
+Confidence = 0.832618 Rule: education-spending=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.914163 Rule: education-spending=n -> Class=republican
+Confidence = 0.901408 Rule: education-spending=n, Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.873239 Rule: education-spending=n, Class=republican -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.943662 Rule: education-spending=n, Class=republican -> physician-fee-freeze=n
+Confidence = 0.84507 Rule: education-spending=n, Class=republican -> physician-fee-freeze=n, aid-to-nicaraguan-contras=y
+Confidence = 0.873239 Rule: education-spending=n, Class=republican -> aid-to-nicaraguan-contras=y
+Confidence = 0.885572 Rule: superfund-right-to-sue=n -> physician-fee-freeze=n
+Confidence = 0.875622 Rule: superfund-right-to-sue=n -> physician-fee-freeze=n, Class=republican
+Confidence = 0.875622 Rule: superfund-right-to-sue=n -> aid-to-nicaraguan-contras=y
+Confidence = 0.890547 Rule: superfund-right-to-sue=n -> Class=republican
+Confidence = 0.98324 Rule: superfund-right-to-sue=n, Class=republican -> physician-fee-freeze=n
+Confidence = 0.889952 Rule: superfund-right-to-sue=y -> religious-groups-in-schools=y
+Confidence = 0.84689 Rule: superfund-right-to-sue=y -> crime=y
+Confidence = 0.862903 Rule: crime=y -> religious-groups-in-schools=y
+Confidence = 0.828326 Rule: duty-free-exports=n -> religious-groups-in-schools=y
+Confidence = 0.806867 Rule: duty-free-exports=n -> crime=y
+Confidence = 0.865169 Rule: Class=republican -> adoption-of-the-budget-resolution=y
+Confidence = 0.820225 Rule: Class=republican -> adoption-of-the-budget-resolution=y, physician-fee-freeze=n
+Confidence = 0.917603 Rule: Class=republican -> physician-fee-freeze=n
+Confidence = 0.816479 Rule: Class=republican -> aid-to-nicaraguan-contras=y
